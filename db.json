@@ -4,6 +4,36 @@
             "id": 1,
             "name": "Animal",
             "imgPreview": "https:\/\/s3.amazonaws.com\/cdn-origin-etr.akc.org\/wp-content\/uploads\/2019\/12\/03202400\/Yellow-Labrador-Retriever.jpg"
+        },
+          {
+            "id": 2,
+            "name": "Pet",
+            "imgPreview": "https:\/\/hips.hearstapps.com\/hmg-prod.s3.amazonaws.com\/images\/dog-puppy-on-garden-royalty-free-image-1586966191.jpg"
+        },
+          {
+            "id": 3,
+            "name": "Cute",
+            "imgPreview": "https:\/\/www.inbrampton.com\/sites\/inbrampton.com\/files\/imagecache\/lead-image-full\/article\/2019\/01\/dogs.jpg"
+        },
+          {
+            "id": 4,
+            "name": "Lancape",
+            "imgPreview": "https:\/\/media.nature.com\/lw800\/magazine-assets\/d41586-020-01430-5\/d41586-020-01430-5_17977552.jpg"
+        },
+          {
+            "id": 5,
+            "name": "View",
+            "imgPreview": "https://images.unsplash.com/photo-1593575240467-a3bbc4b0eb05?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+        },
+          {
+            "id": 6,
+            "name": "Model",
+            "imgPreview": "https://images.unsplash.com/photo-1593455427837-93e1f58b0df2?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+        },
+          {
+            "id": 7,
+            "name": "Nice",
+            "imgPreview": "https://images.unsplash.com/photo-1593454141219-2152b848bcc7?ixlib=rb-1.2.1&auto=format&fit=crop&w=679&q=80"
         }
     ],
     "images": [{
